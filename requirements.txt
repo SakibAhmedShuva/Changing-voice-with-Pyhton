@@ -1,5 +1,4 @@
-numpy==1.26.4
+audiotsm==0.1.2
+numpy==2.3.2
+pedalboard==0.9.17
 soundfile==0.13.1
-ipython==8.12.3
-pedalboard
-audiotsm
