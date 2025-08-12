@@ -1,4 +1,4 @@
-# 🐍 Voice Changer with Python
+# Voice Changer with Python
 
 <div align="center">
 
